@@ -1,0 +1,11 @@
+# ignore climplots.egg-info folder
+climplots.egg-info/**
+
+# ignore __pycache__ folder
+climplots/__pycache__/**
+
+# ignore .eggs folder
+.eggs/**
+
+# ignore build folder
+build/**
